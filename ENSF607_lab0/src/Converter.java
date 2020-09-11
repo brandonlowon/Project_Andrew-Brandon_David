@@ -13,7 +13,7 @@ private double celsiusToFahrenheit(double C){
 
 private double fahrenheitToCelsius(double F){
 double celsius = (F-32)/1.8;
-return 0; 
+return celsius; 
 }
 
 public static void main(String[] args) {
