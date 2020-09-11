@@ -2,7 +2,7 @@ public class Converter {
 //Your names go here:
 /*
 * @Author: Brandon Low-On (first)
-* Name of the second student
+* @Author: Andrew Lee (second)
 * Name of the third student *
 */
 
@@ -12,7 +12,7 @@ private double celsiusToFahrenheit(double C){
 }
 
 private double fahrenheitToCelsius(double F){
-// TODO: The second student will implement this method
+double celsius = (F-32)/1.8;
 return 0; 
 }
 
