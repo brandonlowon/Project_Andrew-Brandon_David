@@ -1,6 +1,7 @@
 public class Converter {
-//Your names go here:
-/*
+
+/* This is the development branch
+ * 
 * @Author: Brandon Low-On (first)
 * @Author: Andrew Lee (second)
 * @Author: David Laditan (third)
