@@ -3,7 +3,7 @@ public class Converter {
 /*
 * @Author: Brandon Low-On (first)
 * @Author: Andrew Lee (second)
-* Name of the third student *
+* @Author: David Laditan (third)
 */
 
 private double celsiusToFahrenheit(double C){
